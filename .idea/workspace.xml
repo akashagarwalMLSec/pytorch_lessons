@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8789b9d5-f953-4d4a-a288-74a1fa236500" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dBGzBzyNEYIECHd9SMlHDQwELN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sensor_anomaly" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8789b9d5-f953-4d4a-a288-74a1fa236500" name="Default Changelist" comment="" />
+      <created>1591891332555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591891332555</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding lessons">
+      <created>1591891489846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591891489846</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed">
+      <created>1591891728172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591891728172</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed">
+      <created>1591894369638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591894369638</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed">
+      <created>1591894533123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591894533123</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed">
+      <created>1591915290424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591915290424</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Moving around">
+      <created>1592353170356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592353170356</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding lessons" />
+    <MESSAGE value="changed" />
+    <MESSAGE value="Moving around" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving around" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="174" width="424" height="496" key="FileChooserDialogImpl" timestamp="1592353289294">
+      <screen x="72" y="27" width="1368" height="783" />
+    </state>
+    <state x="542" y="174" width="424" height="496" key="FileChooserDialogImpl/72.27.1368.783@72.27.1368.783" timestamp="1592353289294" />
+    <state x="589" y="305" width="328" height="208" key="Github.ShareDialog" timestamp="1591891384541">
+      <screen x="67" y="27" width="1373" height="782" />
+    </state>
+    <state x="589" y="305" width="328" height="208" key="Github.ShareDialog/67.27.1373.782@67.27.1373.782" timestamp="1591891384541" />
+    <state x="470" y="93" width="563" height="648" key="Github.UntrackedFilesDialog" timestamp="1591891400476">
+      <screen x="67" y="27" width="1373" height="782" />
+    </state>
+    <state x="470" y="93" width="563" height="648" key="Github.UntrackedFilesDialog/67.27.1373.782@67.27.1373.782" timestamp="1591891400476" />
+    <state x="355" y="112" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1592353172620">
+      <screen x="72" y="27" width="1368" height="783" />
+    </state>
+    <state x="351" y="117" width="800" height="536" key="Vcs.Push.Dialog.v2/67.27.1373.782@67.27.1373.782" timestamp="1591915293149" />
+    <state x="355" y="112" key="Vcs.Push.Dialog.v2/72.27.1368.783@72.27.1368.783" timestamp="1592353172620" />
+  </component>
+</project>
